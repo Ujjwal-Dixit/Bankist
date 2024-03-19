@@ -24,6 +24,19 @@ The code initializes four bank accounts (`account1` to `account4`) with informat
 
 1. **Login:** Enter your username and PIN in the login form and click the login button to access your account.
 
+   - **Account 1:**
+     - Owner: Jonas Schmedtmann (js)
+     - PIN: 1111
+   - **Account 2:**
+     - Owner: Jessica Davis (jd)
+     - PIN: 2222
+   - **Account 3:**
+     - Owner: Steven Thomas Williams (stw)
+     - PIN: 3333
+   - **Account 4:**
+     - Owner: Sarah Smith (ss)
+     - PIN: 4444
+
 2. **View Account Details:** Once logged in, you'll see your account details, including balance, transaction history, and summary.
 
 3. **Transfer Funds:** To transfer funds, click on the transfer button, enter the recipient's username and the amount, then confirm the transaction.
